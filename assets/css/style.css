@@ -48,12 +48,15 @@ p{
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 25px;
 }
-section{
-    
-}
+
 #my_work img{
     max-width: 90%;
     border-radius: 20px;
+}
+#what-day img{
+   margin-left: 200px;
+   
+   float: right;
 }
 .footer_ul li{
    display:inline-flex;
@@ -62,4 +65,8 @@ section{
    margin: 10px;
    float: right;
    
+}
+.h3{
+    padding-top: 100px;
+    display:inline;
 }
